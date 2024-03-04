@@ -23,7 +23,7 @@ def connectDataBase():
     # --> add your Python code here
     DB_NAME = "CPP"
     DB_USER = "postgres"
-    DB_PASS = "Frenchfries2020"
+    DB_PASS = "pass"
     DB_HOST = "localhost"
     DB_PORT = "5432"
 
